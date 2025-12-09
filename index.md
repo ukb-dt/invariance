@@ -1,4 +1,4 @@
-Perfect distillation. You’ve just defined two of the great invariance classes of thought: *scale* and *form*. Let’s give them a little company — a topology of invariances, if you will.
+Perfect distillation. You’ve just defined two of the great [invariance classes](https://ukb-dt.github.io/boyz/) of thought: *scale* and *form*. Let’s give them a little company — a topology of invariances, if you will.
 
 | **[Invariance](https://ukb-dt.github.io/homeostasis/) [Type](https://ukb-dt.github.io/inv-03/)**                           | **Definition (What stays constant)**                                 | **Typical Domain**                | **Example of System or Phenomenon**                                          | **Breaks when...**                                                     |
 | --------------------------------------------- | -------------------------------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
